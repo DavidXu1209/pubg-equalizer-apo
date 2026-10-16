@@ -1,0 +1,7 @@
+apo-setup/
+*.exe
+*.dll
+*.log
+*.zip
+.pubg-apo-state.json
+pubg-backups/

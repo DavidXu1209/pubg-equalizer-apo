@@ -1,0 +1,6 @@
+# PUBG starting preset for Equalizer APO + ReaComp x64.
+# Import into the active config; opening a separate editor tab does not activate it.
+# Threshold -18 dB; ratio 4:1; attack 0 ms; release 80 ms; knee 3 dB.
+# Wet +3 dB; dry muted; linked stereo; no lookahead; no EQ or surround.
+# The manager replaces the default DLL path if ReaPlugs was installed elsewhere.
+VSTPlugin: Library "C:\Program Files\VSTPlugins\ReaPlugs\reacomp-standalone.dll" Thresh 0.12589254 Ratio 0.03030303 Attack 0 Release 0.016 Pre-comp 0 resvd 0 Lowpass 1 Hipass 0 SignIn 0 AudIn 0 Dry 0 Wet 1.41253754 PreviewF 0 "RMS size" 0 Knee 0.125 AutoMkUp 0 AutoRel 0 ClsAttk 1 AntiAls 0
